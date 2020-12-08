@@ -29,7 +29,7 @@ let me = new Person({
     pronouns: "they/them/theirs",
     highSchool: false,
     location: "California",
-    discord: "atom#0001"
+    discord: "honeybee#0001"
 }) 
 ```  
 Much of my work is in private repositories, but feel free to look around!  
