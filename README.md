@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ```javascript
 let me = new Person({
     name: "Audrey Pascal",
-    hobbies: {"programmer", "engineer", "feminist", "physics", "student", "beekeeping"},
-    pronouns: "they/them/theirs",
+    hobbies: ["programmer", "engineer", "feminist", "physics", "student", "beekeeping"],
+    pronouns: ["they", "them", "theirs", "she", "her", "hers"],
     highSchool: false,
     location: "California",
     discord: "honeybee#0001"
