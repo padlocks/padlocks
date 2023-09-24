@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ```javascript
 let me = new Person({
     name: "Audrey Pascal",
-    hobbies: ["programmer", "engineer", "feminist", "physics", "student", "beekeeping"],
-    pronouns: ["they", "them", "theirs", "she", "her", "hers"],
+    hobbies: ["programmer", "engineer", "feminist", "physics", "student", "science"],
+    pronouns: ["she", "her", "hers", "they", "them", "theirs"],
     highSchool: false,
     location: "California",
-    discord: "honeybee#0001"
+    discord: "ittybee"
 }) 
 ```  
 Much of my work is in private repositories, but feel free to look around!  
